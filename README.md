@@ -1,10 +1,10 @@
 # ICS 212
-## Homework - Week 4
+## Homework - Week 5
 
-# Simple Calculator
+# Recursion
 
 ### Assignment:
-- Update calculator.c following assignment description provided in HomeworkAssignment_Week4.pdf (uploaded on Laulima)
+- Update factorial.c and reverse.c following assignment description provided in HomeworkAssignment_Week5.pdf (uploaded on Laulima)
 
 **NOTE**: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
 
